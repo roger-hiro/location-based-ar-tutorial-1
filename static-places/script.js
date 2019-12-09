@@ -25,7 +25,7 @@ var models = [
         url: './assets/charizard/scene.gltf',
         scale: '0.5 0.5 0.5',
         info: '喷火龙',
-        rotation: '0 90 0',
+        rotation: '0 150 0',
     },
     {
         url: './assets/magnemite/scene.gltf',
